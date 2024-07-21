@@ -13,4 +13,4 @@ Puedes clonar este repositorio e interactuar con cada fragmento de código escri
     2.2. Operadores de asignación
     2.3. Operadores de concatenación
 
-Nota: Si encuentras algo en el contenido compartido que no coincide con la teoría, agradeceré que me lo informes para revisar la documentación y actualizar el material.
+**Nota: Si encuentras algo en el contenido compartido que no coincide con la teoría, agradeceré que me lo informes para revisar la documentación y actualizar el material.
